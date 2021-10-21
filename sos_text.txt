@@ -1,0 +1,1 @@
+đây là dự án sos cung cấp trong mùa covid được sử dụng reactJS
